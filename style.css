@@ -1,0 +1,16 @@
+.progress{
+    background-color: blue;
+    width: 0%;
+    border-radius: 25px;
+  }
+  .progressBar{
+    width: 100%;
+    background-color: gray;
+    border-radius: 25px;
+    padding: 5px;
+  }
+  .value{
+    color: white;
+    right: 0px;
+    left: 80%;
+  }
